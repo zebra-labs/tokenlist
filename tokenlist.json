@@ -1,0 +1,32 @@
+{
+    "name": "Zebra Default",
+    "logoURI": "",
+    "keywords": [],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 324,
+        "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tags": [],
+        "logoURI": ""
+      },
+      {
+        "chainId": 324,
+        "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "decimals": 6,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "tags": [],
+        "logoURI": ""
+      }
+    ],
+    "timestamp": "2023-04-20T14:44:27.504Z"
+  }
+  
